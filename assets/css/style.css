@@ -24,7 +24,7 @@ body {
       position: -webkit-sticky; 
       position: sticky;
       top: 0;
-      background-image: url("../images/flipped-hero-image.jpg");
+      background-image: url("./assets/images/flipped-hero-image.jpg");
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
@@ -104,7 +104,7 @@ body {
 
   /* Hero Style Start */
   .hero {
-      background-image: url("../images/flipped-hero-image.jpg");
+      background-image: url("./assets/images/flipped-hero-image.jpg");
       background-size: cover;
       background-position: center;
       display: flex;
